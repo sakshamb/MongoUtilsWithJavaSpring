@@ -1,0 +1,4 @@
+com\org\mongo\connect\model\StartupModel.class
+com\org\mongo\connect\MongoConnectApplication.class
+com\org\mongo\connect\service\MongoService.class
+com\org\mongo\connect\repo\TimeRepository.class
